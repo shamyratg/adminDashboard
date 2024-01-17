@@ -8,12 +8,12 @@ export default function WidgetSm() {
       <ul className="widgetSmList">
         <li className="widgetSmListItem">
           <img
-            alt="err"
+            alt="List_Item"
             src="https://images.pexels.com/photos/7147850/pexels-photo-7147850.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
             className="widgetSmImg"
           />
           <div className="widgetSmUser">
-            <span className="widgetSmUsername"> Anna Klauer</span>
+            <span className="widgetSmUsername"> Jeren Meredova</span>
             <span className="widgetSmUserTitle"> FrontEnd Developer </span>
           </div>
           <button className="widgetSmButton">
@@ -23,12 +23,12 @@ export default function WidgetSm() {
         </li>
         <li className="widgetSmListItem">
           <img
-            alt="err"
+            alt="List_Item"
             src="https://images.pexels.com/photos/7147850/pexels-photo-7147850.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
             className="widgetSmImg"
           />
           <div className="widgetSmUser">
-            <span className="widgetSmUsername"> Anna Klauer</span>
+            <span className="widgetSmUsername"> Sergey Klauer</span>
             <span className="widgetSmUserTitle"> FrontEnd Developer </span>
           </div>
           <button className="widgetSmButton">
@@ -38,12 +38,12 @@ export default function WidgetSm() {
         </li>
         <li className="widgetSmListItem">
           <img
-            alt="err"
+            alt="List_Item"
             src="https://images.pexels.com/photos/7147850/pexels-photo-7147850.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
             className="widgetSmImg"
           />
           <div className="widgetSmUser">
-            <span className="widgetSmUsername"> Anna Klauer</span>
+            <span className="widgetSmUsername"> Seri Krawczyk</span>
             <span className="widgetSmUserTitle"> FrontEnd Developer </span>
           </div>
           <button className="widgetSmButton">
@@ -53,12 +53,12 @@ export default function WidgetSm() {
         </li>
         <li className="widgetSmListItem">
           <img
-            alt="err"
+            alt="List_Item"
             src="https://images.pexels.com/photos/7147850/pexels-photo-7147850.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
             className="widgetSmImg"
           />
           <div className="widgetSmUser">
-            <span className="widgetSmUsername"> Anna Klauer</span>
+            <span className="widgetSmUsername"> Devid Klauer</span>
             <span className="widgetSmUserTitle"> FrontEnd Developer </span>
           </div>
           <button className="widgetSmButton">
@@ -68,12 +68,12 @@ export default function WidgetSm() {
         </li>
         <li className="widgetSmListItem">
           <img
-            alt="err"
+            alt="List_Item"
             src="https://images.pexels.com/photos/7147850/pexels-photo-7147850.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
             className="widgetSmImg"
           />
           <div className="widgetSmUser">
-            <span className="widgetSmUsername"> Anna Klauer</span>
+            <span className="widgetSmUsername"> Masza Kluster</span>
             <span className="widgetSmUserTitle"> FrontEnd Developer </span>
           </div>
           <button className="widgetSmButton">
