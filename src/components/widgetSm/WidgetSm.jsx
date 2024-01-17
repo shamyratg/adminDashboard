@@ -14,7 +14,7 @@ export default function WidgetSm() {
           />
           <div className="widgetSmUser">
             <span className="widgetSmUsername"> Jeren Meredova</span>
-            <span className="widgetSmUserTitle"> FrontEnd Developer </span>
+            <span className="widgetSmUserTitle"> Backend Developer </span>
           </div>
           <button className="widgetSmButton">
             <Visibility className="widgetSmIcon" />
@@ -44,7 +44,7 @@ export default function WidgetSm() {
           />
           <div className="widgetSmUser">
             <span className="widgetSmUsername"> Seri Krawczyk</span>
-            <span className="widgetSmUserTitle"> FrontEnd Developer </span>
+            <span className="widgetSmUserTitle"> Data Analyst </span>
           </div>
           <button className="widgetSmButton">
             <Visibility className="widgetSmIcon" />
@@ -59,7 +59,7 @@ export default function WidgetSm() {
           />
           <div className="widgetSmUser">
             <span className="widgetSmUsername"> Devid Klauer</span>
-            <span className="widgetSmUserTitle"> FrontEnd Developer </span>
+            <span className="widgetSmUserTitle"> Manager </span>
           </div>
           <button className="widgetSmButton">
             <Visibility className="widgetSmIcon" />
